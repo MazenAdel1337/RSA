@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Local-Encrypted-Chat-main\SecurityProject\obj\Debug\SecurityProject.Form1.resources
+C:\Users\PC\Desktop\Local-Encrypted-Chat-main\SecurityProject\obj\Debug\SecurityProject.RSA_manual.resources
+C:\Users\PC\Desktop\Local-Encrypted-Chat-main\SecurityProject\obj\Debug\SecurityProject.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Local-Encrypted-Chat-main\SecurityProject\bin\Debug\SecurityProject.exe.config
+C:\Users\PC\Desktop\Local-Encrypted-Chat-main\SecurityProject\bin\Debug\SecurityProject.exe
+C:\Users\PC\Desktop\Local-Encrypted-Chat-main\SecurityProject\bin\Debug\SecurityProject.pdb
+C:\Users\PC\Desktop\Local-Encrypted-Chat-main\SecurityProject\obj\Debug\SecurityProject.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Local-Encrypted-Chat-main\SecurityProject\obj\Debug\SecurityProject.exe
+C:\Users\PC\Desktop\Local-Encrypted-Chat-main\SecurityProject\obj\Debug\SecurityProject.pdb
+C:\Users\PC\Desktop\Local-Encrypted-Chat-main\SecurityProject\obj\Debug\SecurityProject.csproj.AssemblyReference.cache
